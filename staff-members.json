@@ -1,0 +1,58 @@
+[
+    {
+        "title": "🔑 Operation Admins",
+        "color": "#be86ff",
+        "borderColor": "#ae86dd",
+        "members": [
+            {
+                "uuid": "82d87b9d-4650-4372-bb9a-57e40bf9a8f9",
+                "name": "ItsLui_",
+                "quote": "yo, i run the server."
+            },
+            {
+                "uuid": "0eb63190-74f3-4f79-b15e-f5a39e10796f",
+                "name": "simdog03",
+                "quote": "i be rappin, but im not a rapper"
+            },
+            {
+                "uuid": "b1c3a8ef-7060-41c5-98f9-190c698919f1",
+                "name": "Panda_Swag_0",
+                "quote": "we like fortnite."
+            }
+        ]
+    },
+    {
+        "title": "🔨 Community Admins",
+        "color": "#f54949",
+        "borderColor": "#d44646",
+        "members": [
+            {
+                "uuid": "2856ab82-6613-45d0-9059-a17101645754",
+                "name": "Not_m9tristan",
+                "quote": "Totinos, totinos, hot pizza rolls"
+            },
+            {
+                "uuid": "370d7c9f-fe3c-4387-99a9-cd2167a8c8b3",
+                "name": "ETRulz",
+                "quote": "monke"
+            }
+        ]
+    },
+    {
+        "title": "🔨 Mods",
+        "color": "#7fc76d",
+        "borderColor": "#73b064",
+        "members": [
+            {
+                "uuid": "e2bafda8-e306-4963-982e-7dbb6c9a7d36",
+                "name": "tippytoamato",
+                "quote": "mep."
+            },
+            {
+                "uuid": "a2184828-91ee-4159-9ae4-78af15d1ae06",
+                "name": "sywarwhat",
+                "quote": "-"
+            }
+        ]
+    }
+]
