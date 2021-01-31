@@ -1,4 +1,4 @@
-# Nova Rules
+# 🌌 Nova Rules
 By playing on the Nova Network, you agree to the following rules. If you notice that someone is breaking any of the below rules, it is your responsibility to report it to the proper staff. If there are no staff online, use `/report` to send a report which can be handled once staff is available.
 
 ### Modified client
