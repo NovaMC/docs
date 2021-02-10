@@ -14,6 +14,8 @@ You can download 7-Zip from their [website](https://www.7-zip.org/download.html)
 ### Step 2: Obtain Your Games
 Obtain ISO files for the games you would like to play. Check the [discord](https://discord.gg/m52kfmbqAm) if you need help obtaining games.
 
+If your game is a **.7z** file, it needs to be extracted first.
+
 ### Step 3: Setup the Emulator
 Right-click **Dolphin-Netplay.7z** and click **7-Zip > Extract Here**. You can then move the extracted folder to wherever you would like to keep it. You can launch the emulator using **Dolphin.exe** after placing your ISOs into the included **Games** folder.
 
