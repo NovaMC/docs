@@ -17,7 +17,7 @@ Obtain ISO files for the games you would like to play. Check the [discord](https
 If your game is a **.7z** file, it needs to be extracted first.
 
 ### Step 3: Setup the Emulator
-Right-click **Dolphin-Netplay.7z** and click **7-Zip > Extract Here**. You can then move the extracted folder to wherever you would like to keep it. You can launch the emulator using **Dolphin.exe** after placing your ISOs into the included **Games** folder.
+Right-click **Dolphin-Netplay.7z** and click **7-Zip > Extract to Dolphin-Netplay**. You can then move the extracted folder to wherever you would like to keep it. You can launch the emulator using **Dolphin.exe** after placing your ISOs into the included **Games** folder.
 
 #### Gamecube Controller
 Go to **Controllers**. Under **GameCube Controllers**, click **Configure** next to **Port 1** and select your controller under **Device** in the top left.
