@@ -6,7 +6,7 @@ Following this guide will get you up and running with Netplay, which will allow 
 Download the archive below to get Dolphin.
 This download contains our custom netplay build, which includes 100% saves, optimized netplay settings, game-enhancing codes and more.
 
-[Dolphin Emulator](https://mega.nz/file/IO43DYrA#-5WzI7G7thk8GeIwL7ZCpRudrDnCSWqWuQD95UjA0ZA)
+[Dolphin Emulator](https://mega.nz/file/pWgw0QZB#km3KzKADEjXWsxVkaHEo30pFW2yFTc0Sj4wiX3XX6_E)
 
 7-Zip or WinRAR is required to extract.
 You can download 7-Zip from their [website](https://www.7-zip.org/download.html).
